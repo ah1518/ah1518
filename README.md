@@ -1,8 +1,5 @@
 ## About me
 
-**ah1518/ah1518** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 - I’m currently learning GitHub, version control and reproducible workflows as part of my Health Data Science master's programme.
 - I’m looking to collaborate on beginner friendly data science or health related projects.
 - I’m looking for help with GitHub workflows and writing clear README files.
